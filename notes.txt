@@ -1,0 +1,27 @@
+keywords - reserved words with predefined meaning
+data types
+  - basic
+  - derived
+  - user defined
+
+how charcter is stored ?
+  as Ascii value.
+
+
+  -8,-65,-266
+
+  1's compliment(mke 1-0,0-1), 2's compliment(add 1 to the 1's comp)
+
+  conditional ops
+
+  Functions
+  1.Declaration
+  2.Definition
+  3.Call
+
+syntax:
+  return_type func_name(parametres or arg)
+  {
+    function body
+    return;
+  }

@@ -25,3 +25,8 @@ syntax:
     function body
     return;
   }
+
+pointers
+int *add_temp; -> pointer Declaration
+
+add_temp = &temp;
